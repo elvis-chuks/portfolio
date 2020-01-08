@@ -24,7 +24,7 @@
                 </div>
             </div>
 
-            <button class="btn"> Contact me <span>&nbsp; &nbsp; &nbsp;</span><i class="fas fa-arrow-right"></i></button>
+            <button class="btn"> Shoot <span>&nbsp; &nbsp; &nbsp;</span><i class="fas fa-arrow-right"></i></button>
             </div>
         </div>
 
